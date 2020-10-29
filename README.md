@@ -4,7 +4,7 @@ I'm a Computer Science Undergraduate Student from Brazil. Beyond programming, I 
 
 - 🔭 I’m currently working on a **plataform to help seniors to adapt well to retirement**;
 - 🌱 Currently learning  **Javascript**, **Node.js**, **C** and **Haskell**;
-- 💬 Ask me about **python**, **django**, and **agile project development**;
+- 💬 Ask me about **Python**, **Django**, and **Agile Project Development**;
 - 😄 I love to participate in collaborative projects! 
 - :ok_woman: Pronouns: she/her
 
