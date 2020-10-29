@@ -3,7 +3,7 @@
 I'm a Computer Science Undergraduate Student from Brazil. Beyond programming, I love to be engaged in social movements for the right to the city :house: and, above all, for the protection of the environment :herb: 
 
 - 🔭 I’m currently working on a **plataform to help seniors to adapt well to retirement**;
-- 🌱 Currently learning  **Javascript**, **Node.js**, **C** and **Haskell**;
+- 🌱 Right now, I'm learning  **Javascript**, **Node.js**, **C** and **Haskell**;
 - 💬 Ask me about **Python**, **Django**, and **Agile Project Development**;
 - 😄 I love to participate in collaborative projects! 
 - :ok_woman: Pronouns: she/her
