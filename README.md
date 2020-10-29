@@ -10,7 +10,7 @@ I'm a Computer Science Undergraduate Student from Brazil. Beyond programming, I 
 
 
 ### Languages and Tools
-<img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg" /> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/>  <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg"/> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888872.svg"/> 
+<img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg" /> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg"/> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888872.svg"/> 
 
 
 
