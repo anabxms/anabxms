@@ -1,18 +1,33 @@
-### Hi there 👋 I'm Ana Beatriz
+## Hi there  <img src="https://cdn.betterttv.net/emote/5fce9b74cbd462462d569648/3x" width="35px">  I'm Ana Beatriz
 
-I'm a Computer Science Undergraduate Student from Brazil. Beyond programming, I love to be engaged in social movements for the right to the city :house: and, above all, for the protection of the environment :herb: 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anabxms&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 
-- 🌱 Right now, I'm learning  **Java**, **C** and **Python**;
-- 💬 Ask me about **Python**, **Django**, and **Agile Project Development**;
-- 😄 I love to participate in collaborative projects! 
-- :ok_woman: Pronouns: she/her
-
-
-### Languages and Tools
-<img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg" /> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg"/> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> <img width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888872.svg"/> 
+[![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/anabxms/)
+[![Behance](https://img.shields.io/static/v1?label=Behance&message=%20&color=pink&logo=Behance&style=flat-square&logoColor=white)](https://www.behance.net/abxms)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=pink&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/anabia.jpg/)
+[![dev@lucafluri.ch](https://img.shields.io/static/v1?label=anabxms@gmail.com&message=%20&color=pink&logo=gmail&style=flat-square&logoColor=white)](mailto:anabxms@gmail.com)
 
 
 
+🐭 I'm a Computer Science Undergraduate Student from Brazil.
 
-##### How to reach me
-<a href="https://www.linkedin.com/in/anabxms/"><img width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></a> <a href="https://www.instagram.com/anabia.jpg/"><img width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" /></a> <a href="https://www.behance.net/abxms"><img width="20px" src="https://www.flaticon.com/svg/static/icons/svg/174/174837.svg" /></a>  
+🥬 Right now, I'm learning  **Java**, **C** and **Python**;
+
+💬 Ask me about **Python**, **Django**, and **Agile Project Development**;
+
+🍡 I love to participate in collaborative projects! 
+
+🍄 Pronouns: she/her
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabxms&layout=compact&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+
+
+### 🖱️  Tech Stack
+
+![Python](https://img.shields.io/static/v1?label=Python&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=python&logoColor=white) 
+![Django](https://img.shields.io/static/v1?label=Django&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=django&logoColor=white)
+![C](https://img.shields.io/static/v1?label=C&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=c&logoColor=white)
+![Haskell](https://img.shields.io/static/v1?label=Haskell&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=haskell&logoColor=white)
+![Git](https://img.shields.io/static/v1?label=Git&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=git&logoColor=white)
+![HTML](https://img.shields.io/static/v1?label=HTML&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/static/v1?label=CSS&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=css3&logoColor=white)
