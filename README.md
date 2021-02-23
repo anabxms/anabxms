@@ -9,14 +9,10 @@
 
 
 
-🐭 I'm a Computer Science Undergraduate Student from Brazil.
-
-🥬 Right now, I'm learning  **Java**, **C** and **Python**;
-
-💬 Ask me about **Python**, **Django**, and **Agile Project Development**;
-
-🍡 I love to participate in collaborative projects! 
-
+🐭 I'm a Computer Science Undergraduate Student from Brazil. </br>
+🥬 Right now, I'm learning  **Java**, **C** and **Python**; </br>
+💬 Ask me about **Python**, **Django**, and **Agile Project Development**; </br>
+🍡 I love to participate in collaborative projects! </br>
 🍄 Pronouns: she/her
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabxms&layout=compact&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
