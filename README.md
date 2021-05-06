@@ -19,8 +19,7 @@
 
 ### 🖱️  Tech Stack
 
-![Python](https://img.shields.io/static/v1?label=Python&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=python&logoColor=white) 
-![Django](https://img.shields.io/static/v1?label=Django&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/static/v1?label=Python&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/static/v1?label=C&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=c&logoColor=white)
 ![Haskell](https://img.shields.io/static/v1?label=Haskell&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=haskell&logoColor=white)
 ![Git](https://img.shields.io/static/v1?label=Git&message=%20&color=9cf&labelColor=grey&style=flat-square&logo=git&logoColor=white)
