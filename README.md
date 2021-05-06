@@ -11,7 +11,6 @@
 
 🐭 I'm a Computer Science Undergraduate Student from Brazil. </br>
 🥬 Right now, I'm learning  **Java**, **C** and **Python**; </br>
-💬 Ask me about **Python**, **Django**, and **Agile Project Development**; </br>
 🍡 I love to participate in collaborative projects! </br>
 🍄 Pronouns: she/her
 
