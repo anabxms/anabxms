@@ -10,7 +10,7 @@
 
 
 🐭 I'm a Computer Science Undergraduate Student from Brazil. </br>
-🥬 Right now, I'm learning  **Java**, **C** and **Python**; </br>
+🥬 Right now, I'm learning  **Angular**, **Typescript**, **Java** and **Python**; </br>
 🍡 I love to participate in collaborative projects! </br>
 🍄 Pronouns: she/her
 
