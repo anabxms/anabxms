@@ -1,4 +1,4 @@
-## Hi there  <img src="https://emoji.gg/assets/emoji/2071-bear-artist.png" width="35px">  I'm Ana Beatriz
+## Hi there  <img src="https://emoji.gg/assets/emoji/4748-kittysquish.png" width="35px">  I'm Ana Beatriz
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=anabxms&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 
