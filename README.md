@@ -1,6 +1,5 @@
 ## Hi there  <img src="https://emoji.gg/assets/emoji/2842-stressedpsyduck.png" width="35px">  I'm Ana Beatriz
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anabxms&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 
 [![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/anabxms/)
 [![Behance](https://img.shields.io/static/v1?label=Behance&message=%20&color=pink&logo=Behance&style=flat-square&logoColor=white)](https://www.behance.net/abxms)
@@ -13,8 +12,6 @@
 🥬 Right now, I'm learning  **Ruby On Rails**, **Angular**, **Typescript** and **Python**; </br>
 🍡 I love to participate in collaborative projects! </br>
 🍄 Pronouns: she/her
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabxms&layout=compact&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 
 
 ### 🖱️  Tech Stack
